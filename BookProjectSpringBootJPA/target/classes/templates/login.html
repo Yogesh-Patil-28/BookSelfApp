@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title> Login Page </title>
+</head>
+<body>
+<form  th:action="@{/login}" method="get">
+	<table style="margin:auto;font-size:20px;" border="3px">
+		<tr>
+			<td><label>Enter User Name </label></td>
+			<td><input type="text" name="txtusername"></td>
+		</tr>
+		<tr>
+			<td><label>Enter Password </label></td>
+			<td><input type="password" name="txtpassword"></td>
+		</tr>
+		<tr >
+			<td align="center"> <input type="submit" value="LogIn"></td>
+			<td><a href="/register">Register Now</a></td>
+		</tr>
+	</table>
+	</form>
+	
+</body>
+</html>
