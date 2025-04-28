@@ -56,7 +56,7 @@ Run the main Java class.
 Follow the instructions displayed on the console.
 
 ### ✍️ Author
-Name: Yogesh Patil (You can add your name here!)
+Name: Yogesh Patil 
 
 Contact: 7499239161
 linkdin: linkedin.com/in/yogesh-patil-523486251
